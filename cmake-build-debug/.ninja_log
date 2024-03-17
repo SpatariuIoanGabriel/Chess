@@ -1,0 +1,14 @@
+# ninja log v5
+28	165	1710644063120133132	untitled90_autogen/timestamp	b81b3f0521c6d54
+28	165	1710644063120133132	/Users/local.user/CLionProjects/untitled90/cmake-build-debug/untitled90_autogen/mocs_compilation.cpp	b81b3f0521c6d54
+28	165	1710644063120133132	untitled90_autogen/mocs_compilation.cpp	b81b3f0521c6d54
+28	165	1710644063120133132	/Users/local.user/CLionProjects/untitled90/cmake-build-debug/untitled90_autogen/timestamp	b81b3f0521c6d54
+4795	5469	1710644068412537167	untitled90	423ffe352042b603
+3	1598	1710718129076543697	build.ninja	5b35bbd51ac3c67e
+0	1248	1710718201539232606	Chess_autogen/timestamp	ffa4183a3e646ad4
+0	1248	1710718201539232606	Chess_autogen/mocs_compilation.cpp	ffa4183a3e646ad4
+0	1248	1710718201539232606	/Users/local.user/CLionProjects/Chess/cmake-build-debug/Chess_autogen/timestamp	ffa4183a3e646ad4
+0	1248	1710718201539232606	/Users/local.user/CLionProjects/Chess/cmake-build-debug/Chess_autogen/mocs_compilation.cpp	ffa4183a3e646ad4
+1249	1533	1710718201838426534	CMakeFiles/Chess.dir/Chess_autogen/mocs_compilation.cpp.o	35122d8059f1e91d
+1249	11926	1710718212194485045	CMakeFiles/Chess.dir/main.cpp.o	7616389a7ce199d6
+11941	13004	1710718213303012297	Chess	ae88e82e97dcfd
